@@ -220,7 +220,7 @@ Aug 2025 ──▶  Norton-Gauss France   │ SWE Team Lead ✅ Current  │ Nex
 </p>
 
 <a href="https://shovon-islam-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-shovon--islam--portfolio.vercel.app-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" />
 </a>
 <a href="mailto:shovonislam493@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-shovonislam493@gmail.com-EA4335?style=for-the-badge" />
