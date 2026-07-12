@@ -187,39 +187,6 @@ const shovon = {
       <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
     </td>
   </tr>
-  <tr>
-    <td width="33%">
-      <h3>🏥 <a href="https://www.boomershub.com/">BoomersHub</a></h3>
-      <p>Senior living & home care referral platform serving thousands of users with scalable Next.js frontend, NestJS backend, Redis caching and Stripe payment integration.</p>
-      <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
-    </td>
-    <td width="33%">
-      <h3>📡 <a href="https://syndeo-noc-provisioning-app-erfndvftdfd0arca.westus2-01.azurewebsites.net/login">Syndeo NOC Provisioning</a></h3>
-      <p>Automated network orchestration & configuration delivery platform for enterprise telecom clients across Europe and North America with Zabbix and Grafana integrations.</p>
-      <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
-    </td>
-    <td width="33%">
-      <h3>🇬🇧 <a href="https://www.regulatedadvice.co.uk/">Regulated Advice UK</a></h3>
-      <p>Compliance & regulatory ERP platform for UK financial advisors with automated reporting, tailored dashboards, audit trails and seamless API integrations.</p>
-      <img src="https://img.shields.io/badge/Completed-64748b?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3>🏛️ <a href="https://www.ruapbd.com/">Rajuk Uttara Apartment</a></h3>
-      <p>Government housing society election and building management system with secure routing, SMS scheduling, role-based access and API integrations.</p>
-      <img src="https://img.shields.io/badge/Completed-64748b?style=flat-square" />
-    </td>
-    <td width="33%">
-      <h3>🎓 <a href="https://educares.com.au/bd">Educare Australia</a></h3>
-      <p>Localized student admissions portal connecting international students with Australian university enrollment and migration visa guidance.</p>
-      <img src="https://img.shields.io/badge/Completed-64748b?style=flat-square" />
-    </td>
-    <td width="33%">
-      <h3>🤝 Trusted Partners</h3>
-      <p>Boingo Wireless 🇺🇸 · Syndeo Wireless LLC 🇺🇸 · Regulated Advice UK 🇬🇧 · BoomersHub 🇺🇸 · Norton-Gauss 🇫🇷</p>
-    </td>
-  </tr>
 </table>
 
 ---
