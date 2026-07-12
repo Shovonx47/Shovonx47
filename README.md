@@ -215,9 +215,7 @@ Aug 2025 ──▶  Norton-Gauss France   │ SWE Team Lead ✅ Current  │ Nex
 
 ### 💬 Let's Connect
 
-<p>
-  Currently open to senior and lead engineering roles — particularly those involving AI systems, observability platforms, or complex full-stack architecture.
-</p>
+<p> Currently open to exciting new opportunities where I can contribute, grow, and make an impact. </p>
 
 <a href="https://shovon-islam-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" />
