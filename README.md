@@ -25,47 +25,101 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-## 🚀 About Me
+## ⚡ Tech Stack & Proficiency
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Tech+Lead;Building+AI-Driven+Automation+Systems;Next.js+%2B+NestJS+Specialist)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Tech+Lead;4%2B+Years+Across+Web%2C+Mobile+%26+AI;Automation+%2B+Cloud+Native+Systems)
 
 </div>
 
-I'm a Senior Software Engineer & Tech Lead at **Norton-Gauss (FR)**, based in Dhaka, Bangladesh 🇧🇩, with 4 years of experience across full-stack and AI engineering. BSc in Computer Science & Engineering from United International University.
+I build across the full stack — from pixel-perfect frontends to distributed backend services, automation pipelines, and cloud infrastructure. Here's the breakdown of what I work with day to day.
 
-### 🔭 Currently Building
+<br>
 
-- 🛰️ **ObservOne** — real-time network observability & telemetry platform
-- 🤖 **Saleshub Boingo v3** — AI-driven automation ecosystem for Boingo Wireless
-- 🌐 **Syndeo NOC Provisioning** — automated network orchestration platform
-
-### 🤝 Trusted By
-
-<div align="center">
-
-| Client | Region |
-|---|---|
-| Boingo Wireless | 🇺🇸 US |
-| Syndeo Wireless LLC | 🇺🇸 US |
-| Regulated Advice | 🇬🇧 UK |
-| BoomersHub | 🇺🇸 US |
-
-</div>
-
-### 🛠️ Tech Stack
+### 🎨 Frontend
 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+### ⚙️ Backend
+
+<div align="center">
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Backend-as-a-Service
+
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+### 🔄 Automation & AI Integration
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br>
+
+### 📊 Proficiency Breakdown
+
+<details open>
+<summary><b>Click to expand skill ratings</b></summary>
+<br>
+
+| Domain | Stack | Proficiency |
+|---|---|---|
+| Frontend | Next.js / React / TypeScript | ████████████████████ 95% |
+| Backend | NestJS / Node.js | ██████████████████░░ 90% |
+| Backend | Laravel / PHP | ██████████████░░░░░░ 70% |
+| Backend | Django / Python | ██████████████░░░░░░ 70% |
+| Databases | PostgreSQL / Prisma / Supabase | ██████████████████░░ 90% |
+| Cloud | AWS / Azure | ████████████████░░░░ 80% |
+| DevOps | Docker / CI-CD | ████████████████░░░░ 80% |
+| Automation | n8n / Playwright | ██████████████████░░ 90% |
+
+</details>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shovonx47&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
