@@ -25,42 +25,49 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```typescript
-const shovon = {
-  name: "Saiful Islam Shovon",
-  role: "Senior Software Engineer & Tech Lead",
-  company: "Norton-Gauss France 🇫🇷",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  experience: "4 years in full-stack & AI engineering",
-  education: "BSc Computer Science & Engineering — United International University",
-  currentWork: [
-    "ObservOne — Real-time network observability & telemetry platform",
-    "Saleshub Boingo v3 — AI-driven automation ecosystem for Boingo Wireless",
-    "Syndeo NOC Provisioning — Automated network orchestration platform",
-  ],
-  clients: [
-    "Boingo Wireless 🇺🇸",
-    "Syndeo Wireless LLC 🇺🇸",
-    "Regulated Advice UK 🇬🇧",
-    "BoomersHub 🇺🇸",
-  ],
-  expertise: [
-    "Full-Stack Architecture",
-    "AI & LLM Engineering",
-    "Agentic Automation Systems",
-    "Technical Team Leadership",
-    "Mobile Applications (React Native)",
-  ],
-  aiStack: ["Claude API", "Gemini API", "OpenAI", "ElevenLabs", "Deepgram", "LangChain"],
-  automationStack: ["n8n", "Make.com", "Zapier", "Playwright", "Nango Webhooks"],
-  funFact: "I build systems that run themselves 🤖",
-  openTo: "Senior & Lead Engineering Roles — AI Systems, Observability, Full-Stack Architecture",
-};
-```
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Tech+Lead;Building+AI-Driven+Automation+Systems;Next.js+%2B+NestJS+Specialist)
+
+</div>
+
+I'm a Senior Software Engineer & Tech Lead at **Norton-Gauss (FR)**, based in Dhaka, Bangladesh 🇧🇩, with 4 years of experience across full-stack and AI engineering. BSc in Computer Science & Engineering from United International University.
+
+### 🔭 Currently Building
+
+- 🛰️ **ObservOne** — real-time network observability & telemetry platform
+- 🤖 **Saleshub Boingo v3** — AI-driven automation ecosystem for Boingo Wireless
+- 🌐 **Syndeo NOC Provisioning** — automated network orchestration platform
+
+### 🤝 Trusted By
+
+<div align="center">
+
+| Client | Region |
+|---|---|
+| Boingo Wireless | 🇺🇸 US |
+| Syndeo Wireless LLC | 🇺🇸 US |
+| Regulated Advice | 🇬🇧 UK |
+| BoomersHub | 🇺🇸 US |
+
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ## 🚀 What I'm Currently Building
 
