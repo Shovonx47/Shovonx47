@@ -25,14 +25,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=Shovonx47&label=Profile+Views&color=0ea5e9&style=flat-square" />
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```typescript
