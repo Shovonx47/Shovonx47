@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Saiful%20Islam%20Shovon&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%40Norton-Gauss&descColor=94a3b8&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Saiful%20Islam%20Shovon&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%40%20Sendora&descColor=94a3b8&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+4%2B+Years+Experience;Next.js+%26+NestJS+Specialist;AI+%26+Automation+Engineering+Expert;Tech+Lead+%40+Norton-Gauss+France;Building+Enterprise+Systems+for+US+%26+EU+Clients" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+4%2B+Years+Experience;Next.js+%26+NestJS+Specialist;AI+%26+Automation+Engineering+Expert;Senior+Software+Engineer+%40+Sendora;Building+Enterprise+Systems+for+US+%26+EU+Clients" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -80,6 +80,9 @@ I build across the full stack — from pixel-perfect frontends to distributed ba
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
@@ -128,7 +131,7 @@ I build across the full stack — from pixel-perfect frontends to distributed ba
 <table>
   <tr>
     <td width="50%">
-      <h3>🔭 ObservOne</h3>
+      <h3>🔭 Observability Platform Implementation</h3>
       <p>High-performance observability & telemetry intelligence platform for distributed mission-critical network environments. Real-time anomaly detection, event correlation and automated diagnostics.</p>
       <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
@@ -137,8 +140,8 @@ I build across the full stack — from pixel-perfect frontends to distributed ba
       <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
     </td>
     <td width="50%">
-      <h3>🤖 Saleshub Boingo v3</h3>
-      <p>Fully AI-driven automation ecosystem for Boingo Wireless. Autonomous deal execution, pricing validation, hardware selection and compliance management — zero human intervention.</p>
+      <h3>🤖 ROM & BOM Automation – Agentic AI</h3>
+      <p>Fully AI-driven automation ecosystem. Autonomous deal execution, pricing validation, hardware selection and compliance management — zero human intervention.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white&style=flat-square" />
@@ -224,19 +227,26 @@ I build across the full stack — from pixel-perfect frontends to distributed ba
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>🔭 <a href="https://www.observone.com/">ObservOne</a></h3>
+    <td width="50%">
+      <h3>🔭 Observability Platform Implementation</h3>
       <p>Real-time observability & telemetry intelligence platform with anomaly detection, event correlation and automated diagnostics for enterprise distributed infrastructure.</p>
       <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
     </td>
-    <td width="33%">
-      <h3>🤖 <a href="https://saleshub.boingo.com/">Boingo Saleshub v3</a></h3>
-      <p>Fully autonomous AI-driven deal execution ecosystem for Boingo Wireless built with Next.js, NestJS, Python AI engines and Playwright automation. Zero human intervention.</p>
+    <td width="50%">
+      <h3>🤖 ROM & BOM Automation – Agentic AI</h3>
+      <p>Fully autonomous AI-driven deal execution ecosystem built with Next.js, NestJS, Python AI engines and Playwright automation. Zero human intervention.</p>
       <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>📞 <a href="https://verbacall.com/">Verbacall</a></h3>
       <p>AI voice-call automation platform integrating OpenAI, Twilio, ElevenLabs and Deepgram for intelligent lead qualification, CRM sync and appointment scheduling.</p>
+      <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>📱 <a href="https://sms.whiteinfobd.com/login">SMS-Whiteinfo</a></h3>
+      <p>Multi-tenant SMS gateway & telemetry platform with a full admin panel — customer management, rate/tariff plans, audit-logged billing history, and operator/route configuration.</p>
       <img src="https://img.shields.io/badge/In_Production-22c55e?style=flat-square" />
     </td>
   </tr>
@@ -259,7 +269,8 @@ Feb 2023 ──── Lamp Techs Bangladesh │ Assoc. Frontend Engineer  │ Ne
 May 2023 ──── Lamp Techs Bangladesh │ Junior Software Engineer   │ Next.js · Nuxt.js · Vue.js · Laravel · ASP.NET Core
 Jan 2024 ──── BoomersHub            │ Software Engineer          │ Next.js · NestJS · PostgreSQL · Redis · Stripe · AWS
 Jan 2025 ──── Norton-Gauss France   │ Software Engineer          │ Laravel · PHP · Docker · Azure DevOps · Zabbix API
-Aug 2025 ──▶  Norton-Gauss France   │ SWE Team Lead ✅ Current  │ Next.js · NestJS · Python · Playwright · AI · n8n
+Aug 2025 ──── Norton-Gauss France   │ SWE Team Lead              │ Next.js · NestJS · Python · Playwright · AI · n8n
+Apr 2026 ──▶  Sendora               │ Senior Software Engineer ✅ Current │ Laravel · Nginx · Linux · TypeScript · PHP · Docker · Kubernetes
 ```
 
 ---
